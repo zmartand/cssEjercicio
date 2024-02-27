@@ -1,0 +1,39 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+.menu {
+    width: 400px;
+    height: 50px;
+    background-color: #00D1AE;
+}
+
+.content {
+    width: 400px;
+    height: 200px;
+    background-color: red;
+}
+
+/* Ejercicio Inicial
+.highlight {
+    color: red;
+}
+h1 {
+    color: #2E5266;
+    text-align: center;
+}
+
+p {
+    margin: 20px 0;
+    color: #537a3c;
+    text-align: center;
+    padding: 40px;
+}
+.highlight {
+    color: #844d86;
+}*/
+
